@@ -1,0 +1,2 @@
+This is a new text.
+This line added to the bottom.
